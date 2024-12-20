@@ -10,7 +10,8 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://real-estate-app-client.vercel.app",
+    origin:
+      "https://real-estate-app-client-dr7yy6kp9-gautam-s-projects-aaff952d.vercel.app",
     credentials: true,
   })
 );
